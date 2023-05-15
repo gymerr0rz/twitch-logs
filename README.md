@@ -25,7 +25,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gymerr0rz/fs-inkwell.git
+   git clone https://github.com/gymerr0rz/twitch-logs.git
    ```
 2. Go to Chrome Extensions (3 Dots > More Tools > Extensions)
    ```sh
